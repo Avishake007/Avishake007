@@ -13,7 +13,7 @@
 
 </div>
 <div >
-<img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="50%" height="50%"/>
+<img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="50%" height="50%" position="absolute" right="1px"/>
   </div>
 </div>
 
