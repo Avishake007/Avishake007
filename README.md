@@ -10,5 +10,5 @@
 - 👨‍💻 All of my projects are available at [https://avishakemaji.netlify.app/](https://avishakemaji.netlify.app/)
 
 - 💬 Ask me about **something interesting**
-
+- Favourite part **I liked to put myself through different challenges**
 
