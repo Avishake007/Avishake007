@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avishake Maji</h1>
-<h3 align="center">Web Developer, Competitive Programmer, ML Enthusiast</h3>
+<h3 align="center">An IT Btech Student from Academy Of Technology</h3>
 <img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="345" height="275" align="right" />
 
 
