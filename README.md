@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web development and ML based projects**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React Js & ML**
 
 - 👨‍💻 All of my projects are available at [https://avishakemaji.netlify.app/](https://avishakemaji.netlify.app/)
 
