@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">, I'm Avishake Maji</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/master/assets/gifs/Hi.gif" width="30px">, I'm Avishake Maji</h1>
 <h3 align="center">An IT Btech Student from Academy Of Technology</h3>
 <img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="345" height="275" align="right" />
  
