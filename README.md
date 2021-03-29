@@ -14,6 +14,8 @@
 <details>
 <summary><b>Languages and Tools🤓</b>: </summary>
 <br>
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
  
  - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
