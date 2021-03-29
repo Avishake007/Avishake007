@@ -15,6 +15,10 @@
 <summary><b>Languages and Tools🤓</b>: </summary>
 <br>
  </details>
+ <details>
+<summary><b>Languages and Tools🤓</b>: </summary>
+<br>
  <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avishake007&show_icons=true&theme=radical" />
 </a>
+</details>
