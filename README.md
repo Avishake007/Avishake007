@@ -14,7 +14,7 @@
 <details>
 <summary><b>Languages and Tools🤓</b>: </summary>
 <br>
-
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishake007&layout=compact&show_icons=true&theme=dark)](https://github.com/Avishake007/Avishake007)
 - 💻 &nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20"  height="20"/>
