@@ -1,11 +1,11 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/Avishake007/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">  I'm Avishake!</h1>
-<h3 align="center">An IT Btech Student from Academy Of Technology,Kolkata</h3>
+<h3 align="center">A Software Enginner in Tata Consultancy Services</h3>
 <img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="345" height="275" align="right" />
  
  ### 👨🏻‍💻 &nbsp;About Me
-- 🔭 I’m currently working on **Web development and ML based projects**
+- 🔭 I’m currently working on **Core Java, Spring Boot and Microservices**
 
-- 🌱 I’m currently learning **React Js & ML**
+- 🌱 I’m currently learning **Docker and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://avishakemaji.netlify.app/](https://avishakemaji.netlify.app/)
 
